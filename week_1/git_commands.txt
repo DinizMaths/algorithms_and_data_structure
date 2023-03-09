@@ -11,7 +11,7 @@ Check all files in current folder (including private files):
 $ ls -a
 
 Create file and write:
-$ cat > <file_name>
+$ cat > <file_name.extension>
 <
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
 Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
@@ -25,3 +25,31 @@ including versions of Lorem Ipsum.
 
 Close file:
 $ Ctrl + c
+
+Adding files to Git:
+$ git add <file_name.extension>
+
+Or adding all:
+$ git add .
+
+Checking files status:
+$ git status
+
+Configuring identity in Git:
+$ git config --global user.email "email@domain.com"
+$ git config --global user.name "User Name"
+
+Commit message:
+$ git commit -m "Message to commit"
+
+To see files differences:
+$ git diff
+
+To end view of differences:
+$ q
+
+Commits history:
+$ git log
+
+Commits history with more details:
+$ git log --stat
