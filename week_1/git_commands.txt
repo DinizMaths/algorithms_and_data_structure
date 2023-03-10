@@ -10,6 +10,9 @@ $ git init
 Check all files in current folder (including private files):
 $ ls -a
 
+Clone repository:
+$ git clone <repository_url>
+
 Create file and write:
 $ cat > <file_name.extension>
 <
@@ -22,6 +25,12 @@ the 1960s with the release of Letraset sheets containing Lorem Ipsum passages,
 and more recently with desktop publishing software like Aldus PageMaker 
 including versions of Lorem Ipsum.
 >
+
+Add text line in file:
+$ printf "<text>" >> <file_name.extension>
+
+See text in file:
+$ less <file_name.extension>
 
 Close file:
 $ Ctrl + c
@@ -53,3 +62,12 @@ $ git log
 
 Commits history with more details:
 $ git log --stat
+
+See branches in repository:
+$ git branch
+
+Push to branch:
+$ git push origin <branch_name>
+
+Reset to commit:
+$ git reset --hard <HEAD~n>
