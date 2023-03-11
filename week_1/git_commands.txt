@@ -71,3 +71,22 @@ $ git push origin <branch_name>
 
 Reset to commit:
 $ git reset --hard <HEAD~n>
+
+Create a branch:
+$ git branch <new_branch_name>
+
+Switch to branch:
+$ git checkout <branch_name>
+
+Merge:
+$ git checkout <branch_1>
+$ git merge <branch_2>
+
+Delete branch:
+$ git branch -d <branch_name>
+
+Abort merge:
+$ git merge --abort
+
+Remove files:
+$ git rm <file_name.extension>
