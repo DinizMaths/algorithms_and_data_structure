@@ -1,5 +1,7 @@
 from csv import reader
 
+
+
 class DataSet(dict):
     def __init__(self, columns=None, data=None):
         super().__init__()
@@ -51,6 +53,7 @@ class DataSet(dict):
     def delete_row(self, row_index):
         for column in self.columns:
             del self[column][row_index]
+
 
 
 def read_csv(file_path):
