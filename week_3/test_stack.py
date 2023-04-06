@@ -17,8 +17,10 @@ def sunsetViews(buildings, direction):
     Returns:
     list: A sorted list of indices of the buildings that can see the sunset.
     """
-    result = Stack()
 
+    result = Stack()
+    
+    # Check the direction
     if direction == "EAST":
         index = len(buildings) - 1
         step = -1
@@ -29,8 +31,10 @@ def sunsetViews(buildings, direction):
         return []
     
     tallest = 0
+
     while index >= 0 and index < len(buildings):
         height = buildings[index]
+        
         if height > tallest:
             tallest = height
             result.push(index)
