@@ -1,5 +1,6 @@
 import os
 
+
 def list_files(current_path):
   if not os.path.isdir(current_path):
     print(current_path)
