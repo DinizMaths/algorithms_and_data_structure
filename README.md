@@ -28,7 +28,7 @@
 - [![Open in Dataquest](https://img.shields.io/badge/link-dataquest-green)](https://app.dataquest.io/c/108/m/561/queues) **Queues**
 - [![Open in Dataquest](https://img.shields.io/badge/link-dataquest-green)](https://app.dataquest.io/c/108/m/562/stacks) **Stacks**
 - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](./week_3/Code_Interview_Linked_Queue_Stacks.ipynb) **Code Interview**
-- [Vídeo no loom](https://www.loom.com/share/dfc6e72790b54bd99a8ca25a9e62cd72) com comentários da resolução do notebook **Code Interview** acima
+- [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/dfc6e72790b54bd99a8ca25a9e62cd72) Vídeo com comentários da resolução do notebook **Code Interview** acima
 
 
 ## [Week 04](./week_4/)
@@ -36,7 +36,7 @@
 - [![Open in Dataquest](https://img.shields.io/badge/link-dataquest-green)](https://app.dataquest.io/c/109/m/579/introduction-to-binary-trees/) **Binary Trees**
 - [![Open in Dataquest](https://img.shields.io/badge/link-dataquest-green)](https://app.dataquest.io/c/109/m/580/working-with-binary-search-trees/) **AVL Trees**
 - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](./week_4/Code_Interview_recursion.ipynb) **Code Interview**
-- [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/78888e45f9a3451aad8f9827bb7756a6) Vídeo comentários da resolução do notebook **Code Interview** acima
+- [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/78888e45f9a3451aad8f9827bb7756a6) Vídeo com comentários da resolução do notebook **Code Interview** acima
 
 
 # Certificates
