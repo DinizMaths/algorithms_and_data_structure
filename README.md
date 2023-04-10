@@ -48,3 +48,4 @@
 - [![Open in Dataquest](https://img.shields.io/badge/link-dataquest-green)](https://app.dataquest.io/view_cert/DKKUYM7S2MXX67SIYOK3) **Introduction to Python for Data Engineering**
 - [![Open in Dataquest](https://img.shields.io/badge/link-dataquest-green)](https://app.dataquest.io/view_cert/F46GBQRZZM4S12JB4ET3) **Introduction to Git and for Version Control**
 - [![Open in Dataquest](https://img.shields.io/badge/link-dataquest-green)](https://app.dataquest.io/view_cert/CC19PNMH16L74D290DD0) **Dictionaries and Functions in Python**
+  - test <span>&Omega;</span>
