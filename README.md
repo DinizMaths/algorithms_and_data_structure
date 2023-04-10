@@ -28,6 +28,8 @@
 - [![Open in Dataquest](https://img.shields.io/badge/link-dataquest-green)](https://app.dataquest.io/c/108/m/561/queues) **Queues**
 - [![Open in Dataquest](https://img.shields.io/badge/link-dataquest-green)](https://app.dataquest.io/c/108/m/562/stacks) **Stacks**
 - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](./week_3/Code_Interview_Linked_Queue_Stacks.ipynb) **Code Interview**
+- [Vídeo no loom](https://www.loom.com/share/dfc6e72790b54bd99a8ca25a9e62cd72) com comentários da resolução do notebook **Code Interview** acima
+
 
 ## [Week 04](./week_4/)
 - [![Open in Dataquest](https://img.shields.io/badge/link-dataquest-green)](https://app.dataquest.io/c/109/m/578/overview-of-recursion/) **Recursion**
