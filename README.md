@@ -1,4 +1,4 @@
-# Algorithms and Data Structure
+# Algorithms and Data Structures
 
 🇺🇸 This repository is dedicated to providing access to the codes developed during the Algorithms and Data Structures discipline. Here, you will find practical examples and implementations of algorithms and data structures, all in Python language.
 
