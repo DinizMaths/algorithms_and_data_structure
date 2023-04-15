@@ -38,7 +38,8 @@
 - [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/78888e45f9a3451aad8f9827bb7756a6) Vídeo com comentários da resolução do notebook **Code Interview** acima
 
 ## [Week 05](./week_5/)
-
+- [![Open in Dataquest](https://img.shields.io/badge/link-dataquest-green)](https://app.dataquest.io/c/86/m/476/time-complexity-of-algorithms/) **Time Complexity of Algorithms**
+- [![Open in Dataquest](https://img.shields.io/badge/link-dataquest-green)](https://app.dataquest.io/c/86/m/477/constant-time-complexity/) **Constant Time Complexity**
 
 # Certificates
 
