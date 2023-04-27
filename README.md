@@ -49,6 +49,8 @@
 - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](./week_3/fast_queries_on_csv.ipynb) **Guided Project**
 - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](./week_3/Code_Interview_bst.ipynb) **Code Interview**
 
+## [Week 07](./week_7/)
+
 
 # Certificates
 
