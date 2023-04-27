@@ -40,13 +40,23 @@
 ## [Week 05](./week_5/)
 - [![Open in Dataquest](https://img.shields.io/badge/link-dataquest-green)](https://app.dataquest.io/c/86/m/476/time-complexity-of-algorithms/) **Time Complexity of Algorithms**
 - [![Open in Dataquest](https://img.shields.io/badge/link-dataquest-green)](https://app.dataquest.io/c/86/m/477/constant-time-complexity/) **Constant Time Complexity**
+- [![Open in Dataquest](https://img.shields.io/badge/link-dataquest-green)](https://app.dataquest.io/c/86/m/478/logarithmic-time-complexity/) **Logarithmic Time Complexity**
+
+## [Week 06](./week_6/)
+- [![Open in Dataquest](https://img.shields.io/badge/link-dataquest-green)](https://app.dataquest.io/c/86/m/479/sorting-algorithms/) **Sorting Algorithms**
+- [![Open in Dataquest](https://img.shields.io/badge/link-dataquest-green)](https://app.dataquest.io/c/86/m/480/space-complexity/) **Space Complexity**
+- [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](./week_3/selection_sort.ipynb) **Selection Sort**
+- [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](./week_3/fast_queries_on_csv.ipynb) **Guided Project**
+- [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](./week_3/Code_Interview_bst.ipynb) **Code Interview**
+
 
 # Certificates
 
-🇺🇸 Some courses listed in the weeks above generated certificates upon completion. Below is the link to them:
+🇺🇸 Some courses listed in the weeks above generated certificates upon completion. Below is the link to the certificates:
 
-🇧🇷 Alguns cursos listados nas semanas acima geravam certificados em sua conclusão. Abaixo segue o link para eles:
+🇧🇷 Alguns cursos listados nas semanas acima geravam certificados em sua conclusão. Abaixo segue o link para os certificados:
 
 - [![Open in Dataquest](https://img.shields.io/badge/link-dataquest-green)](https://app.dataquest.io/view_cert/DKKUYM7S2MXX67SIYOK3) **Introduction to Python for Data Engineering**
 - [![Open in Dataquest](https://img.shields.io/badge/link-dataquest-green)](https://app.dataquest.io/view_cert/F46GBQRZZM4S12JB4ET3) **Introduction to Git and for Version Control**
 - [![Open in Dataquest](https://img.shields.io/badge/link-dataquest-green)](https://app.dataquest.io/view_cert/CC19PNMH16L74D290DD0) **Dictionaries and Functions in Python**
+- [![Open in Dataquest](https://img.shields.io/badge/link-dataquest-green)](https://app.dataquest.io/view_cert/R7G1WEBYNUMIHD3GK51Y) **Introduction to Algorithms**
