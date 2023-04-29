@@ -2,6 +2,17 @@
 import pytest
 from binarysearchtree import *
 
+def searchSequence(bst, valueOne, valueTwo, valueThree):
+    auxSubtree = bst.get_subtree(valueOne)
+
+    if auxSubtree.contains(valueTwo):
+      auxSubtree = auxSubtree.get_subtree(valueTwo)
+
+      if auxSubtree.contains(valueThree):
+        return True
+    
+    return False
+
 def validateThreeNodes(bst, valueOne, valueTwo, valueThree):
     """
     Checks if the given three nodes have the required relationship in the Binary Search Tree.
@@ -18,23 +29,10 @@ def validateThreeNodes(bst, valueOne, valueTwo, valueThree):
     Returns:
     bool: True if the given nodes have the required relationship, False otherwise.
     """
-    auxSubtree = bst.get_subtree(valueOne)
-
-    if auxSubtree.contains(valueTwo):
-      auxSubtree = auxSubtree.get_subtree(valueTwo)
-
-      if auxSubtree.contains(valueThree):
-        return True
+    seq1 = searchSequence(bst, valueOne, valueTwo, valueThree)
+    seq2 = searchSequence(bst, valueThree, valueTwo, valueOne)
     
-    auxSubtree = bst.get_subtree(valueThree)
-
-    if auxSubtree.contains(valueTwo):
-      auxSubtree = auxSubtree.get_subtree(valueTwo)
-
-      if auxSubtree.contains(valueOne):
-        return True
-
-    return False
+    return seq1 or seq2
 
     
 
