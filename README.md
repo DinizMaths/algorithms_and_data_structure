@@ -54,7 +54,7 @@
 - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](./week_7/Network_Elements.ipynb) **Graph Networks Introduction**
 
 ## [Week 08](./week_8/)
-
+- [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](./week_8/exercise.ipynb) **Graph Networks Exercise**
 
 
 # Certificates
