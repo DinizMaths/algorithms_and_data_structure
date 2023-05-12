@@ -48,8 +48,13 @@
 - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](./week_3/selection_sort.ipynb) **Selection Sort**
 - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](./week_3/fast_queries_on_csv.ipynb) **Guided Project**
 - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](./week_3/Code_Interview_bst.ipynb) **Code Interview**
+- [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/50c5f14478514aef978a68cc9f42a25b) Vídeo com comentários da resolução do notebook **Code Interview** acima
 
 ## [Week 07](./week_7/)
+- [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](./week_7/Network_Elements.ipynb) **Graph Networks Introduction**
+
+## [Week 08](./week_8/)
+
 
 
 # Certificates
