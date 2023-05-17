@@ -57,8 +57,8 @@
 - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](./week_8/exercise.ipynb) **Graph Networks Exercise**
 
 ## [Week 09](./week_9/)
-- [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)]("./week_9/Assortativity.ipynb") **Assortativity**
-- [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)]("./week_9/Walks, Paths and Distancesk.ipynb") **Walks, Paths and Distances**
+- [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](./week_9/Assortativity.ipynb) **Assortativity**
+- [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](./week_9/Walks,\ Paths\ and\ Distancesk.ipynb) **Walks, Paths and Distances**
 - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](./week_9/Assortativity.ipynb) **Assortativity**
 - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](./week_9/Assortativity.ipynb) **Assortativity**
 
